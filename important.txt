@@ -1,1 +1,4 @@
-rm -rf .git
+Important Commands 
+1. rm -rf .git : this command clear all logs and change git repo to  normal folder
+
+2. 
