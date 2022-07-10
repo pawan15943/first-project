@@ -6,4 +6,6 @@ Important Commands
 3. git remote add (alias name) and ssh path
 4. Check remote connection. get remote -v
 5. get remote rename oldname new name
+6. git stash command is use to save changes on local only if you want to commit these change later whenever we needded
+7pawangit
 
