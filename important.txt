@@ -7,5 +7,9 @@ Important Commands
 4. Check remote connection. get remote -v
 5. get remote rename oldname new name
 6. git stash command is use to save changes on local only if you want to commit these change later whenever we needded
+<<<<<<< Updated upstream
 7pawangit
+=======
+
+>>>>>>> Stashed changes
 
