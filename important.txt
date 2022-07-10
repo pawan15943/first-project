@@ -1,4 +1,9 @@
 Important Commands 
 1. rm -rf .git : this command clear all logs and change git repo to  normal folder
 
-2.All Copny Commands you learn form here: https://www.rapidtables.com/code/linux/cp.html  
+2.All Copny Commands you learn form here: https://www.rapidtables.com/code/linux/cp.html	
+
+3. git remote add (alias name) and ssh path
+4. Check remote connection. get remote -v
+5. get remote rename oldname new name
+
