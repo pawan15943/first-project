@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Narendra Modi
 
 Pawan Rathore
 Jitendra Tomar
+=======
+Lal Bahdur Shastri
+>>>>>>> parent of 1ac1528 (vrsion 1.2)
